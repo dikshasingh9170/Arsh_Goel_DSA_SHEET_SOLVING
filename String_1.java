@@ -1,4 +1,3 @@
-import java.util.*;
 class String_1 {
     public boolean isValid(String s) {
         Stack<Character> st=new Stack<Character>();
